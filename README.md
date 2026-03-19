@@ -1,6 +1,5 @@
-Type   -   	Use
-Array - 	length
-String - 	length()
+Array - 	length,
+String - 	length(),
 Collection	- size()
 
 Why .size() and not .length()?
