@@ -12,12 +12,18 @@ public class Main
 	}
 }
 
+Queue (FIFO)
 
+👉 First In, First Out
 
-- Remove specific element (YES, manual!)
-q.remove(20);
-- poll() (most used)
-q.poll();
-Removes front element
-Returns it
-Returns null if empty
+🧠 Idea:
+
+Like a line → first person goes first
+
+✅ Operations:
+
+add() / offer() → insert
+
+remove() / poll() → delete
+
+peek() → front
