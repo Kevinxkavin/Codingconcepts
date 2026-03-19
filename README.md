@@ -1,3 +1,8 @@
+Type   -   	Use
+Array - 	length
+String - 	length()
+Collection	- size()
+
 Why .size() and not .length()?
 ✅ Short answer:
 
