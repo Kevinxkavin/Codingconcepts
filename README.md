@@ -14,3 +14,13 @@ Why .size() and not .length()?
 Array → fixed box → size is constant → length
 
 Collection → flexible box → size changes → size()
+
+What each one covers
+
+java.io.* — everything related to input/output
+
+ClassComes fromBufferedReaderjava.ioInputStreamReaderjava.ioIOExceptionjava.io
+
+java.util.* — utility classes
+
+ClassComes fromStringTokenizerjava.utilArraysjava.utilArrayListjava.utilHashMapjava.util
